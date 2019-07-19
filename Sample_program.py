@@ -4,7 +4,7 @@ print(Dict1)
 for x in Dict1.values():
     print(x)
 
-
+#This is the conditional check here
 
 if not Dict1:
     print("Dict is empty")
