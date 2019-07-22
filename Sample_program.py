@@ -5,8 +5,8 @@ for x in Dict1.values():
     print(x)
 
 #This is the conditional check here
-
-if not Dict1:
+#Hi
+#if not Dict1:
     print("Dict is empty")
 else:
     print("Dict is not empty")
